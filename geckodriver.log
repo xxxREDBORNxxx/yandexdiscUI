@@ -1,0 +1,50 @@
+1680938145308	geckodriver	INFO	Listening on 127.0.0.1:58842
+1680938145920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\igoro\\AppData\\Local\\Temp\\rust_mozprofile19u5a9"
+1680938147520	Marionette	INFO	Marionette enabled
+1680938147534	Marionette	INFO	Listening on port 58850
+Read port: 58850
+WebDriver BiDi listening on ws://127.0.0.1:58843
+1680938147925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\igoro\\AppData\\Local\\Temp\\rust_mozprofile19u5a9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58843/devtools/browser/bf481bb6-51ae-4d4f-a8f1-a62b70e1f772
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1680938156558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938156998	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1680938213463	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938213724	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938214118	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938214406	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ya.ru."
+1680938597496	Marionette	INFO	Stopped listening on port 58850
+!!! error running onStopped callback: TypeError: callback is not a function
+1680938607310	geckodriver	INFO	Listening on 127.0.0.1:59656
+1680938607951	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\igoro\\AppData\\Local\\Temp\\rust_mozprofileU5tnzy"
+1680938609459	Marionette	INFO	Marionette enabled
+1680938609477	Marionette	INFO	Listening on port 59665
+Read port: 59665
+WebDriver BiDi listening on ws://127.0.0.1:59657
+1680938609852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\igoro\\AppData\\Local\\Temp\\rust_mozprofileU5tnzy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59657/devtools/browser/2c6a5477-a98e-4fae-a7fd-2dc4188a3a47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1680938619083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938619480	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1680938675649	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938675962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938676382	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680938676683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ya.ru."
